@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.xlliu.config.Props",
+      "name": "server",
+      "type": "com.xlliu.config.Props"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.xlliu.config.Props",
+      "name": "server.port",
+      "type": "java.lang.Integer"
+    }
+  ]
+}

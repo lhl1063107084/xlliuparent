@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xlliucommon:war">
+    <output-path>$PROJECT_DIR$/xlliucommon/target</output-path>
+    <root id="archive" name="xlliu-common-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="xlliucommon:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8611fd2-7f1e-481b-8c8a-135890bab525" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/xlliudomain/target/" />
+    <ignored path="$PROJECT_DIR$/xlliuservice/target/" />
+    <ignored path="$PROJECT_DIR$/xlliuweb/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/xlliucommon/target/" />
+    <ignored path="$PROJECT_DIR$/xlliudao/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-492912842">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xlliu-parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Kotlin Class" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getType</find>
+      <find>createEnvironment</find>
+      <find>getEnvironment</find>
+      <find>getBeanFactory</find>
+      <find>allowBeanDefinitionOverriding</find>
+      <find>registerBeanDefinition</find>
+      <find>VALIDATION_AUTO</find>
+      <find>initBeanDefinitionReader</find>
+      <find>configLocations</find>
+      <find>invokeBeanFactoryPostProcessors</find>
+      <find>beanFactoryPostProcessors</find>
+      <find>loadBeanDefinitions</find>
+      <find>getConfigLocations</find>
+      <find>DEFAULT_WEB_CONTEXT_CLASS</find>
+      <find>DEFAULT_CONTEXT_CLASS</find>
+      <find>webEnvironment</find>
+      <find>resolvePrimitiveClassName</find>
+      <find>deduceWebEnvironment</find>
+      <find>SYSTEM_PROPERTY_JAVA_AWT_HEADLESS</find>
+      <find>LegacyMergeSort</find>
+      <find>newNode</find>
+      <find>TREEIFY_THRESHOLD</find>
+      <find>judgeTask</find>
+      <find>condition</find>
+      <find>Expense</find>
+      <find>taskUser</find>
+      <find>jun</find>
+      <find>1.0-SNAPSHOT</find>
+      <find>org.springframework.cloud</find>
+      <find>flowable</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\soft\Git\bin\git.exe" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/vo/ResponseVO.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/chaintable/DoubleEndList.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/chaintable/Linkly.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/chaintable/DoublelyLinkList.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/chaintable/LinkList.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/chaintable/SortLinkList.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/chaintable/LinkLy.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/chaintable/DoubleLyLinkList.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/tree/Node.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/tree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/proxy/MyBeanPostProcesser.java" />
+        <option value="$PROJECT_DIR$/xlliuweb/src/main/resources/processes/ExpenseProcess.bpmn20.xml" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/test/java/TestLogin.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/sort/Sort.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/sort/SortUtil.java" />
+        <option value="$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/controller/MongoDBController.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/UserRepositoryImplTest.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/test/java/com/xlliu/service/mongo/impl/UserRepositoryImplTest.java" />
+        <option value="$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/vo/User.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/mongo/UserRepository.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/mongo/impl/UserRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/spring/beanpostprocess/parentandson/SonChildren.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/spring/beanpostprocess/HelloServiceImplV1.java" />
+        <option value="$PROJECT_DIR$/xlliucommon/src/main/java/config/Props.java" />
+        <option value="$PROJECT_DIR$/xlliucommon/src/main/java/com/xlliu/config/Props.java" />
+        <option value="$PROJECT_DIR$/xlliuweb/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xlliudao/src/main/java/com/xlliu/datasource/UserConfig.java" />
+        <option value="$PROJECT_DIR$/xlliucommon/pom.xml" />
+        <option value="$PROJECT_DIR$/xlliuweb/pom.xml" />
+        <option value="$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/config/AppConfigBean.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/proxy/MyProxy.java" />
+        <option value="$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../../software/maven/apache-maven-3.3.9/conf/self/settings.xml" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/user/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/controller/ExpenseController.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/handler/ManagerTaskHandler.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/handler/BossTaskHandler.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/spring/beanpostprocess/applicationaware/TestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/junit/Test.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/zookeeper/ZookeeperTest.java" />
+        <option value="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/map/HashMap.java" />
+        <option value="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src/java/util/HashMap.java" />
+        <option value="$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/builder/ActorController.java" />
+        <option value="$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/clone/PrototypeManager.java" />
+        <option value="$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/Test01.java" />
+        <option value="$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/Application.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/Student.java" />
+        <option value="$PROJECT_DIR$/xlliuweb/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/clone/PrototypePattern.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="588" />
+    <option name="y" value="51" />
+    <option name="width" value="1782" />
+    <option name="height" value="1041" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xlliu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlliuparent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlliu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlliuparent" type="462c0819:PsiDirectoryNode" />
+              <item name="xlliuweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlliu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlliuparent" type="462c0819:PsiDirectoryNode" />
+              <item name="xlliuweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlliu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlliuparent" type="462c0819:PsiDirectoryNode" />
+              <item name="xlliuweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlliu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlliuparent" type="462c0819:PsiDirectoryNode" />
+              <item name="xlliuweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlliu-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlliuparent" type="462c0819:PsiDirectoryNode" />
+              <item name="xlliuweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xlliu" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="HashMa&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuservice/src/main/java/com/xlliu/service/map/HashMap.java&#10;Test&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuservice/src/main/java/com/xlliu/service/zookeeper/ZookeeperTest.java&#10;Applica&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuweb/src/main/java/com/xlliu/Application.java&#10;App&#9;RUN_CONFIGURATION&#9;Application&#10;UserRepository&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuservice/src/main/java/com/xlliu/service/mongo/UserRepository.java&#10;Studen&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliudomain/src/main/java/com/xlliu/po/Student.java&#10;User&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuservice/src/main/java/com/xlliu/service/user/impl/UserServiceImpl.java&#10;Ex&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuweb/src/main/java/com/xlliu/controller/ExpenseController.java&#10;Con&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuweb/src/main/java/com/xlliu/controller/ExpenseController.java&#10;UserCon&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuweb/src/main/java/com/xlliu/controller/UserController.java&#10;MyPro&#9;PSI&#9;JAVA://com.xlliu.service.proxy.MyProxy&#10;Ap&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuweb/src/main/java/com/xlliu/Application.java&#10;TestService&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuservice/src/main/java/com/xlliu/service/spring/beanpostprocess/applicationaware/TestService.java&#10;AppCon&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuweb/src/main/java/com/xlliu/config/AppConfigBean.java&#10;UserContro&#9;PSI&#9;JAVA://com.xlliu.controller.UserController&#10;Appli&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuweb/src/main/java/com/xlliu/Application.java&#10;Config&#9;PSI&#9;JAVA://com.xlliu.datasource.UserConfig&#10;Ser&#9;PSI&#9;JAVA://com.xlliu.service.spring.beanpostprocess.HelloServiceImplV1&#10;TestCon&#9;PSI&#9;JAVA://com.xlliu.controller.TestController&#10;Fa&#9;PSI&#9;JAVA://com.xlliu.service.spring.beanpostprocess.parentandson.Father&#10;Sort&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuservice/src/main/java/com/xlliu/service/sort/Sort.java&#10;test&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliudomain/src/main/java/com/xlliu/po/Test01.java&#10;Pro&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuservice/src/main/java/com/xlliu/service/proxy/MyBeanPostProcesser.java&#10;Stu&#9;PSI&#9;JAVA://com.xlliu.po.Student&#10;REs&#9;PSI&#9;JAVA://com.xlliu.po.vo.ResponseVO&#10;Link&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;Arra&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Arr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;List&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/List.java&#10;Com&#9;PSI&#9;JAVA://sort.CompareComparatorAndComparableTest&#10;XmlBeanDefinitionReader&#9;FILE&#9;jar:///Users/g2/Documents/software/repository/self/org/springframework/spring-beans/4.3.12.RELEASE/spring-beans-4.3.12.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java&#10;Class&#9;FILE&#9;jar:///Users/g2/Documents/software/repository/self/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java&#10;registerBeanDefinition&#9;PSI&#9;JAVA://org.springframework.context.annotation.ClassPathBeanDefinitionScanner#registerBeanDefinition&#10;Parent&#9;PSI&#9;JAVA://com.xlliu.service.spring.beanpostprocess.parentandson.Parent&#10;ClassPathXmlApplicationContext&#9;PSI&#9;JAVA://org.springframework.context.support.ClassPathXmlApplicationContext&#10;ApplicationLis&#9;PSI&#9;JAVA://org.springframework.context.ApplicationListener&#10;XmlBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.xml.XmlBeanFactory&#10;XmlWebAppli&#9;PSI&#9;JAVA://org.springframework.web.context.support.XmlWebApplicationContext&#10;Bean&#9;FILE&#9;jar:///Users/g2/Documents/software/repository/self/org/springframework/spring-beans/4.3.12.RELEASE/spring-beans-4.3.12.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java&#10;AbstraMap&#9;FILE&#9;jar:///Users/g2/Documents/software/repository/self/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java&#10;BeanFa&#9;FILE&#9;jar:///Users/g2/Documents/software/repository/self/org/springframework/spring-beans/4.3.12.RELEASE/spring-beans-4.3.12.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java&#10;Abs&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliudomain/src/main/java/com/xlliu/po/builder/AbstractActorBuilder.java&#10;build&#9;PSI&#9;JAVA://com.xlliu.po.builder.AbstractActorBuilder&#10;initialization&#9;PSI&#9;JAVA://java.util.logging.FileHandler.InitializationErrorManager&#10;InitializingBean&#9;FILE&#9;jar:///Users/g2/Documents/software/repository/self/org/springframework/spring-beans/4.3.12.RELEASE/spring-beans-4.3.12.RELEASE.jar!/org/springframework/beans/factory/InitializingBean.class&#10;Abstra&#9;FILE&#9;jar:///Users/g2/Documents/software/repository/self/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java&#10;Request&#9;FILE&#9;jar:///Users/g2/Documents/software/repository/self/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.java&#10;Par&#9;FILE&#9;file:///Users/g2/Documents/project/xlliuparent/xlliuservice/src/main/java/com/xlliu/service/spring/beanpostprocess/parentandson/Parent.java&#10;AbstractHandlerMethodMapping&#9;FILE&#9;jar:///Users/g2/Documents/software/repository/self/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java&#10;RequestMappingInfo&#9;FILE&#9;jar:///Users/g2/Documents/software/repository/self/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/RequestMappingInfo.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548397429742" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Git/bin/git.exe" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.xlliu.service.mongo.impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xlliu.service.mongo.impl" />
+      <recent name="com.xlliu.service" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/spring/beanpostprocess/applicationaware" />
+      <recent name="$PROJECT_DIR$/xlliudao/src/main/java/com/xlliu/mapper" />
+      <recent name="$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po" />
+      <recent name="$PROJECT_DIR$/xlliudao/src/main/resources/mabatis/mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xlliu.service.map.HashMap" />
+      <module name="xlliu-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xlliu.service.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonChildren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xlliu.service.spring.beanpostprocess.parentandson.SonChildren" />
+      <module name="xlliu-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xlliu.service.spring.beanpostprocess.parentandson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="xlliu-web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xlliu.po.Test01" />
+      <module name="xlliu-domain" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xlliu.po.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xlliu.service.zookeeper.ZookeeperTest" />
+      <module name="xlliu-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xlliu.service.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xlliu-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xlliu.datasource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlliu.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Application.SonChildren" />
+      <item itemvalue="Application.ZookeeperTest" />
+      <item itemvalue="Application.HashMap" />
+      <item itemvalue="Application.Test01" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.HashMap" />
+        <item itemvalue="Application.ZookeeperTest" />
+        <item itemvalue="Application.SonChildren" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8611fd2-7f1e-481b-8c8a-135890bab525" name="Default" comment="" />
+      <created>1538202106549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538202106549</updated>
+      <workItem from="1538202109828" duration="611000" />
+      <workItem from="1538202905043" duration="3391000" />
+      <workItem from="1538273197441" duration="4833000" />
+      <workItem from="1539327642030" duration="2916000" />
+      <workItem from="1539330673252" duration="1472000" />
+      <workItem from="1539332175234" duration="1853000" />
+      <workItem from="1539567085507" duration="2791000" />
+      <workItem from="1539592965542" duration="78000" />
+      <workItem from="1539655606511" duration="836000" />
+      <workItem from="1539739793271" duration="256000" />
+      <workItem from="1539931980103" duration="2395000" />
+      <workItem from="1540172501103" duration="1174000" />
+      <workItem from="1540525607243" duration="146000" />
+      <workItem from="1540777811647" duration="13074000" />
+      <workItem from="1540864768559" duration="17569000" />
+      <workItem from="1540897641042" duration="80000" />
+      <workItem from="1540950077783" duration="16807000" />
+      <workItem from="1541039127414" duration="16030000" />
+      <workItem from="1541497000486" duration="2692000" />
+      <workItem from="1541555416146" duration="13809000" />
+      <workItem from="1541642803415" duration="4521000" />
+      <workItem from="1541679603235" duration="2969000" />
+      <workItem from="1541743619555" duration="5004000" />
+      <workItem from="1541824723635" duration="6121000" />
+      <workItem from="1541914573149" duration="1073000" />
+      <workItem from="1541921059635" duration="2131000" />
+      <workItem from="1541986998558" duration="1606000" />
+      <workItem from="1541988679309" duration="19227000" />
+      <workItem from="1542073911872" duration="20499000" />
+      <workItem from="1542159950959" duration="17348000" />
+      <workItem from="1542199298283" duration="11914000" />
+      <workItem from="1542599843248" duration="10376000" />
+      <workItem from="1542678319980" duration="6817000" />
+      <workItem from="1542703763233" duration="4268000" />
+      <workItem from="1542708862344" duration="1135000" />
+      <workItem from="1542764473670" duration="18051000" />
+      <workItem from="1542850684255" duration="12018000" />
+      <workItem from="1542938875384" duration="6755000" />
+      <workItem from="1543197597159" duration="15345000" />
+      <workItem from="1543285496988" duration="482000" />
+      <workItem from="1543369719870" duration="360000" />
+      <workItem from="1543804560202" duration="12473000" />
+      <workItem from="1543888280219" duration="652000" />
+      <workItem from="1543974074962" duration="5771000" />
+      <workItem from="1545011885684" duration="7325000" />
+      <workItem from="1545097137206" duration="1759000" />
+      <workItem from="1545631977292" duration="11327000" />
+      <workItem from="1545704511315" duration="388000" />
+      <workItem from="1545747017778" duration="470000" />
+      <workItem from="1545815065136" duration="71000" />
+      <workItem from="1545876289959" duration="5837000" />
+      <workItem from="1545893832389" duration="3078000" />
+      <workItem from="1545961217977" duration="1035000" />
+      <workItem from="1545980044797" duration="6881000" />
+      <workItem from="1545991063912" duration="2910000" />
+      <workItem from="1546050890880" duration="5465000" />
+      <workItem from="1546394279037" duration="8155000" />
+      <workItem from="1546415694046" duration="2914000" />
+      <workItem from="1546482418123" duration="4799000" />
+      <workItem from="1546495883359" duration="3262000" />
+      <workItem from="1546566584448" duration="3242000" />
+      <workItem from="1546571509527" duration="10157000" />
+      <workItem from="1546829192476" duration="4783000" />
+      <workItem from="1546912428873" duration="3016000" />
+      <workItem from="1546918685145" duration="730000" />
+      <workItem from="1547189484633" duration="980000" />
+      <workItem from="1547191232118" duration="4158000" />
+      <workItem from="1547446153599" duration="620000" />
+      <workItem from="1547612144145" duration="5755000" />
+      <workItem from="1547783893437" duration="604000" />
+      <workItem from="1547784536821" duration="1944000" />
+      <workItem from="1547795603814" duration="2626000" />
+      <workItem from="1547965820384" duration="2906000" />
+      <workItem from="1547969248099" duration="732000" />
+      <workItem from="1547970011274" duration="4958000" />
+      <workItem from="1548387660785" duration="1538000" />
+      <workItem from="1548390003497" duration="329000" />
+      <workItem from="1548390380752" duration="1130000" />
+      <workItem from="1548393674230" duration="868000" />
+      <workItem from="1548394572773" duration="609000" />
+      <workItem from="1548396767362" duration="1237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test - 2018.12.24 at 17h 26m 49s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2018.12.24 at 17h 44m 39s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2018.12.24 at 17h 52m 39s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2018.12.24 at 17h 59m 04s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2018.12.24 at 18h 02m 44s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2018.12.24 at 18h 04m 27s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_save - 2018.12.24 at 17h 25m 00s.xml">
+      <configuration name="Test.save" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_save - 2018.12.24 at 17h 29m 26s.xml">
+      <configuration name="Test.save" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_save - 2018.12.24 at 17h 47m 09s.xml">
+      <configuration name="Test.save" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_save - 2018.12.24 at 18h 13m 58s.xml">
+      <configuration name="Test.save" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="408327000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4922179" visible="true" weight="0.20452708" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5077821" side_tool="true" weight="0.18526466" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.28429985" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4742451" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27910239" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22735347" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.24328147" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2857143" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3281471" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.18593371" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.15616623" />
+      <window_info anchor="right" id="Maven" order="10" visible="true" weight="0.03217158" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31831187" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.28429985" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24328147" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.5049505" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2135785" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.17114569" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.24328147" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.115879826" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.15665236" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/HashMap.java</url>
+          <line>610</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/handler/BossTaskHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/proxy/MyBeanPostProcesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/spring/beanpostprocess/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuservice/src/main/java/model/UserBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/spring/beanpostprocess/HelloServiceImplV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/config/AppConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/spring/beanpostprocess/applicationaware/TestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../software/repository/self/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12.jar!/org/apache/zookeeper/Watcher.class" />
+    <entry file="jar://$PROJECT_DIR$/../../software/repository/self/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12.jar!/org/apache/zookeeper/WatchedEvent.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/Integer.java" />
+    <entry file="jar://$PROJECT_DIR$/../../software/repository/self/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12.jar!/org/apache/zookeeper/ZooKeeper.class" />
+    <entry file="jar://$PROJECT_DIR$/../../software/repository/self/org/springframework/spring-test/4.3.12.RELEASE/spring-test-4.3.12.RELEASE.jar!/org/springframework/test/context/junit4/SpringRunner.class" />
+    <entry file="file://$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-773">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/tree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/zookeeper/ZookeeperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/System.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/Runtime.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/File.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/UnixFileSystem.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/ExpiringCache.java" />
+    <entry file="file:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src/java/util/HashMap.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+    <entry file="file://$PROJECT_DIR$/xlliuservice/src/main/java/com/xlliu/service/map/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/StudentExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/clone/PrototypePattern02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="36" column="69" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/builder/AbstractActorBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/builder/Actor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/builder/ActorBuilder01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/clone/PrototypeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/clone/CloneFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/builder/ActorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/clone/PrototypePattern01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/controller/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-730">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3797">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/clone/PrototypePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliudomain/src/main/java/com/xlliu/po/singleton/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/test/java/sort/CompareComparatorAndComparableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/junit/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/controller/ExpenseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2475">
+          <folding>
+            <element signature="e#0#5069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/controller/MongoDBController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlliuweb/src/main/java/com/xlliu/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>xlliucommon:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xlliu-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xlliu-domain" />
+        <module name="xlliu-service" />
+        <module name="xlliu-web" />
+        <module name="xlliucommon" />
+        <module name="xlliudao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xlliu-domain" target="1.8" />
+      <module name="xlliu-parent" target="1.8" />
+      <module name="xlliu-service" target="1.8" />
+      <module name="xlliu-web" target="1.8" />
+      <module name="xlliucommon" target="1.8" />
+      <module name="xlliudao" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

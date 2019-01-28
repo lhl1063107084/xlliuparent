@@ -1,0 +1,12 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.xlliu.datasource.UserConfig",
+      "name": "spring.datasource.user",
+      "sourceMethod": "testDataSource()",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.xlliu.config.AppConfigBean",
+      "name": "",
+      "type": "com.xlliu.config.AppConfigBean"
+    }
+  ],
+  "properties": []
+}
