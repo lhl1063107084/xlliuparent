@@ -1,9 +1,0 @@
-com/xlliu/controller/UserController.class
-com/xlliu/Application.class
-META-INF/spring-configuration-metadata.json
-com/xlliu/config/AppConfigBean.class
-com/xlliu/controller/TestController.class
-com/xlliu/controller/Test.class
-com/xlliu/controller/HelloController.class
-com/xlliu/junit/Test.class
-com/xlliu/controller/MongoDBController.class
