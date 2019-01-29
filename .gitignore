@@ -1,0 +1,14 @@
+logPath_IS_UNDEFINED
+log.path_IS_UNDEFINED
+.settings
+.project
+.idea
+bin
+target
+.classpath
+.idea
+.tern-project
+output
+*.iml
+.DS_Store
+~*
